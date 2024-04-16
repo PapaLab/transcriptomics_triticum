@@ -1,4 +1,4 @@
-#this script runs ANGSD for nucleotide diveristy estimates. The same script was run for the thee subspecies (dicoccoides, dicoccum and durum)
+#this script runs ANGSD for nucleotide diveristy estimates. The same script was run for the three subspecies (dicoccoides, dicoccum and durum)
 
 #Step 1: Finding a 'global estimate' of the SFS
     #First estimate the site allele frequency likelihood
